@@ -1,0 +1,84 @@
+=== CHECK ENGINE LIGHT ===
+The check engine light (CEL) can mean many things from a loose fuel cap to serious engine issues.
+Common causes: loose or missing fuel cap, faulty oxygen sensor, catalytic converter problem,
+mass airflow sensor failure, spark plug or ignition coil issues.
+If the light is solid (not flashing), you can usually drive safely to a mechanic soon.
+If it is FLASHING, stop driving immediately — a flashing CEL means active misfiring that can
+damage the catalytic converter. First check: tighten the fuel cap and drive for a day or two.
+ 
+=== BATTERY PROBLEMS ===
+A dead or weak battery is one of the most common car problems.
+Signs: car won't start, slow cranking sound, clicking when you turn the key, battery warning light.
+Average battery life is 3 to 5 years. If your car won't start, try jump-starting it.
+If it starts after a jump but dies again soon, the battery likely needs replacement.
+Check for corroded terminals (white or blue powder) — clean with baking soda and water.
+A mechanic or auto parts store can test battery health for free.
+ 
+=== OVERHEATING ===
+If the temperature gauge rises into the red zone, your car is overheating.
+Immediately turn off the air conditioning and turn on the heater to transfer heat away from the engine.
+If the temperature keeps rising, safely pull over and switch off the engine.
+DO NOT open the radiator cap when the engine is hot — it is pressurised and can cause severe burns.
+Common causes: low coolant level, broken thermostat, failed water pump, leaking radiator.
+Check coolant level only when the engine is completely cold.
+ 
+=== TYRE PROBLEMS ===
+Common tyre issues: flat tyre, low pressure (TPMS light on), uneven wear, bulge on sidewall.
+Recommended tyre pressure: check the sticker inside your driver's door — usually 32 to 35 PSI.
+A bulge in the sidewall means the tyre is structurally damaged — replace it immediately, do not drive on it.
+Uneven wear usually indicates wheel alignment or suspension problems.
+Rotate tyres every 5,000 to 7,500 miles to ensure even wear.
+ 
+=== STRANGE NOISES ===
+Squealing when braking: worn brake pads — replace soon.
+Grinding when braking: brake pads completely worn, metal on metal — stop driving if possible.
+Knocking or ticking from engine: low oil level, worn engine bearings, or carbon buildup.
+Clicking when turning: worn CV (constant velocity) joint — common in front-wheel drive cars.
+Rattling from underneath: loose heat shield, exhaust pipe, or suspension component.
+Humming from wheels: wheel bearing failure — worsens at higher speeds and during turns.
+ 
+=== BRAKE PROBLEMS ===
+Spongy or soft brake pedal: air in brake lines or brake fluid leak — DO NOT DRIVE.
+Car pulls to one side when braking: uneven brake pad wear or a stuck calliper.
+Grinding noise when braking: worn brake pads or rotors — replace immediately.
+Brake warning light on: low brake fluid or handbrake not fully released.
+Brakes are a safety-critical system. Any brake issue should be inspected by a mechanic immediately.
+ 
+=== AIR CONDITIONING ===
+AC not cooling: low refrigerant (most common cause), failed compressor, or clogged cabin filter.
+Musty smell from vents: mould or bacteria in the evaporator — use an AC cleaner spray.
+Weak airflow: clogged cabin air filter — replace every 12,000 to 15,000 miles (easy DIY fix).
+Refrigerant recharge is an inexpensive service most garages can do quickly.
+ 
+=== FLUID LEAKS ===
+Brown or black oily puddle under engine: engine oil leak — check oil level immediately.
+Green, orange, or pink puddle: coolant leak — top up and see a mechanic soon.
+Clear water under car near front passenger side in summer: normal AC condensation, not a leak.
+Dark brown fluid near wheels: brake fluid leak — STOP DRIVING immediately, safety critical.
+Red fluid leak: transmission fluid or power steering fluid — see mechanic soon.
+ 
+=== FUEL ECONOMY ===
+Sudden drop in fuel efficiency: dirty air filter, underinflated tyres, faulty oxygen sensor,
+worn spark plugs, or a dragging brake. Check tyre pressure first (free and easy).
+Replace air filter if needed (cheap DIY). If the problem persists, get a diagnostic scan.
+ 
+=== GENERAL MAINTENANCE ===
+Oil change: every 5,000 to 7,500 km for conventional oil, every 10,000 to 15,000 km for synthetic.
+Tyre rotation: every 8,000 to 12,000 km. Tyre replacement: when tread depth is below 2/32 inch.
+Brake pads: every 40,000 to 100,000 km depending on driving style.
+Air filter: every 20,000 to 30,000 km. Spark plugs: every 30,000 to 100,000 km.
+Coolant flush: every 2 years or 40,000 km. Battery: test every 2 years, replace after 5 years.
+ 
+=== VIBRATION AND HANDLING ===
+Steering wheel vibrates at high speed: unbalanced tyres or wheels out of alignment.
+Car pulls to one side: wheel alignment problem or uneven tyre pressure.
+Vibration when braking: warped brake rotors — the disc-shaped parts the pads press against.
+Shaking when accelerating: worn CV joints or unbalanced driveshaft.
+All of these can be diagnosed quickly at any tyre or alignment shop.
+ 
+=== LIGHTS AND WIPERS ===
+Headlight flickering: loose connection, failing alternator, or dying bulb.
+One headlight out: most likely a blown bulb — inexpensive to replace yourself.
+Wiper streaks: worn rubber blade — replace every 6 to 12 months, very inexpensive.
+Cracked windscreen: small chips can be repaired cheaply. Large cracks require full replacement.
+ABS warning light: anti-lock braking system fault — normal brakes still work but ABS is disabled.
